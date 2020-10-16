@@ -1,0 +1,5 @@
+This is 2nd file to commit it without staging
+
+we are making changes to commit it
+
+now, both are merged
